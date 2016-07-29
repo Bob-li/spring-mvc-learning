@@ -1,6 +1,7 @@
 package com.lb.mvcdemo.controller;
 /**
  * bo.li 2016/07/28
+ * first test
  */
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
